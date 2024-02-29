@@ -33,7 +33,7 @@ class _MyAppState extends State<MyApp> {
         title: 'Crypto App',
         home: const HomePage(),
         theme: lightModeTheme,
-        darkTheme: darkModeTheme,
+        darkTheme: darkModeTheme, 
       );
     });
   }
