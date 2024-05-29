@@ -4,7 +4,7 @@ Beautiful Crypto App UI with support for dark and light mode. Created by Martin 
 ## Please leave a ⭐ if you like it 💙
 ## How it looks:
 <img src="https://user-images.githubusercontent.com/81767518/157095069-ab9fed5d-2f42-436b-85a3-6483708d31a3.gif" width="50%"/>
- 
+  
 
 #### Dark mode ⚫ : 
 <img width="390" alt="darkMode1" src="https://user-images.githubusercontent.com/81767518/157095034-35148e87-dd20-46b2-a356-176b76824d6f.png"> 
