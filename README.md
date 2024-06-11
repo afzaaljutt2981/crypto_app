@@ -15,7 +15,7 @@ Beautiful Crypto App UI with support for dark and light mode. Created by Martin 
 <img width="390" alt="lightMode2" src="https://user-images.githubusercontent.com/81767518/157095053-0e3e6c90-f7f7-4688-8a04-4aae80dd242e.png">
 
 ## Features:   
-- Dark and Light Mode friendly 
+- Dark and Light Mode friendly  
 - Backend ready 
 - Responsize 
 - Performance friendly
