@@ -17,7 +17,7 @@ Beautiful Crypto App UI with support for dark and light mode. Created by Martin 
 ## Features:  
 - Dark and Light Mode friendly
 - Backend ready 
-- Responsize
+- Responsize 
 - Performance friendly
 - Home and Details page
 - Custom parameters per crypto
