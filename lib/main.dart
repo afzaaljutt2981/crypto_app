@@ -8,7 +8,7 @@ import 'package:sizer/sizer.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  SystemChrome.setPreferredOrientations([
+  SystemChrome.setPreferredOrientations([ 
     DeviceOrientation.portraitDown,
     DeviceOrientation.portraitUp,
   ]);
