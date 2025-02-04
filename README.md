@@ -2,7 +2,7 @@
 ### Flutter 2.10.3 Null Safety (2022)
 Beautiful Crypto App UI with support for dark and light mode. Created by Martin Gogolowicz ( Martin Gogołowicz ).
 ## Please leave a ⭐ if you like it 💙
-## How it looks:
+## How it looks: 
 <img src="https://user-images.githubusercontent.com/81767518/157095069-ab9fed5d-2f42-436b-85a3-6483708d31a3.gif" width="50%"/> 
         
          
